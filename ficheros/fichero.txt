@@ -1,0 +1,3 @@
+Hola soy un texto de un fichero
+soy una segunda linea
+yo una tercera<br>soy una linea agregada desde php<br>soy una linea agregada desde php<br>soy una linea agregada desde php<br>soy una linea agregada desde php<br>soy una linea agregada desde php<br>soy una linea agregada desde php
